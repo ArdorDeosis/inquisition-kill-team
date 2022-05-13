@@ -75,7 +75,7 @@ Granted, the bolt rifle has a slightly different stat block compared to the libe
 
 
 
-Example
+# Example
 
 Your Inquisitor employs a troop of 7 guardsmen. They are the rest of a squad that the inquisitor witnessed accomplishing exceptional deeds in a warzone some time ago, after which he enlisted them for his team. Among them is their leader and two weapon specialists.
 To fill in what the guard squad misses in heavy weapons, the insquisitor has two gangers from a hive city with him. They used to craft makeshift heavy weapons for the gangs under the city with experimental technology.
