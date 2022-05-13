@@ -4,7 +4,7 @@ I now and then hear voices calling for an Inquisition kill team. Fairly regularl
 
 ## The Kill Teams
 
-* [The Sneaky Inquisitor](Wyrmblade.md)
+* [The Sneaky Inquisitor](killteams/wyrmblade.md) (Wyrmblade)
 
 
 # Flavouring Existing Kill Teams
