@@ -1,10 +1,18 @@
 # Inquisition Kill Team
 
-I now and then hear voices calling for an Inquisition kill team. Fairly regularly, to be honest. While creating your own rules for that might be a fun project, it is hard to get these rules balanced. A solution to this problem is what the D&D community knows as *flavouring*, less commonly used in Warhammer under the term of *proxy* or *counts-as* (see [Flavouring](#Flavouring Existing Kill Teams) below for more detail).
+Here you can find several options for creating an Inquisition kill team (for 2nd edition). The kill teams are re-flavours of officially released kill teams, no rules have changed, so they are as balanced as it gets.
 
 ## The Kill Teams
 
-* [The Sneaky Inquisitor](killteams/wyrmblade.md) (Wyrmblade)
+* [The Inquisitor in the Shadows](killteams/wyrmblade.md) (Wyrmblade)
+* *Name Pending* (Voidscarred)
+* *Name Pending* (Warpcoven)
+* *Name Pending* (Traitor Space Marine)
+
+
+# How Do I Use These?
+
+Rules-wise, you simply use the rules of the kill teams and operatives these Inquisition kill teams are based on (e.g. the *Wyrmblade* rules for the [sneaky Inquisition team](killteams/wyrmblade.md)).
 
 
 # Flavouring Existing Kill Teams
@@ -13,4 +21,4 @@ Flavouring (or re-flavouring) is the act of taking some rules and stripping them
 
 In kill team the rules provide almost no flavour at all except the names of operatives, abilities, weapons, etc. This makes re-flavouring fairly easy.
 
-These documents are fun little thought experiments I like to spend my free time on and they are by far not meant to be comprehensive. If you have ideas you want to see on the battlefield yourself, do some re-flavouring of your own and feel free to use these ideas as starting point or inspiration.
+The kill teams in this repository are fun little thought experiments I like to spend my free time on and they are by far not meant to be comprehensive. If you have ideas you want to see on the battlefield yourself, do some re-flavouring of your own and feel free to use these ideas as starting point or inspiration.

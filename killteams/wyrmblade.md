@@ -1,52 +1,45 @@
-# The Stealthy Inquisitor
+# The Inquisitor in the Shadows
+*based on the Wyrmblade*
 
-*Wyrmblade*
+The *Wyrmblade* is a team focussed on stealth and ambush tactics and has many abilities, actions and ploys to emphasize this (*Cult Ambush*, *Creeping Shadow*, *One With the Shadows*, *Slink Into Darkness*, *Hiding*, ...).
 
-This team emphasizes stealth and ambushes with their abilities and ploys (*Cult Ambush*, *Creeping Shadow*, *One With the Shadows*, *Slink Into Darkness*, *Hiding*, ...).
-
-1 Inquisitor and 13 Henchmen (some count as two, some more restrictions apply, see the Wyrmblade kill team for details)
+Most likely your team will be made up of one inquisitor, nine regular humans (incl. one icon bearer, two gunners and two heavy gunners) and two hero units (count as two operatives).
 
 ## The Inquisitor
-
 *Neophyte Leader*
 
-(S)he has a nice selection of weapons to chose from (and the same stat block as a Scion).
-The *Shadow Vector* ability emphasizes how (s)he's pulling the strings in the background.
+The inquisitor themselves has the same stat block as a Scion, a selection of five ranged and four melee weapons to chose from and the *Shadow Vector* ability to emphasize how (s)he's pulling the strings in the background. And if an inquisitor with a power pick seems a little too quirky, just flavour it as a special power weapon or, if you are inclined, some xenos artifact.
 
 
 ## Guardsman or Other Inquisitorial Henchman
-Your rank and file. Their stat blocks match a guardsman's exactly. But they could also be used as some different sort of standard human(-like) henchman, e.g. gangers from the underhive or maybe even a combat automaton.
+Your rank and file. Their stat blocks match a guardsman's exactly. As such they are suited to be used as any kind of human retinue to the inquisitor. Guardsmen, other inquisitorial henchmen, even gangers from the underhive. The *Gunner*, *Heavy Gunner* and *Icon Bearer* versions bring in some variation, not only in weaponry.
 
 ### Warrior
-
 *Neophyte Brood-Adept*
 
 The standard weapons' stats also match a guardsman's (autogun = lasgun; gun butt = bayonet). But this inquisitor gifts a shotgun to some of the guardsmen, so that's a reason to work for him!
 
 ### Gunner
-
 *Neophyte Gunner*
 
-The gunner has slightly less options than a normal guardsman gunner, but...
+The gunner has slightly less options than a normal guardsman gunner, but still a solid arsenal.
 
 ### Heavy Gunner
-
 *Neophyte Heavy Gunner*
 
-...a normal guard kill team does not have a heavy gunner at all! And if you're not comfortable with equipping your guys with a mining laser, just call it a special issue Stalker Pattern Boltgun (same special rules, but more attacks and more damage) or some kind of plasma weapon.
+If you don't want to equip your guardsmen with a mining laser, just call it a special issue Stalker Pattern Boltgun (same special rules, but more attacks and more damage) or some kind of plasma weapon.
 
 ### Veteran / Squad Leader
-
 *Neuophyte Icon Bearer*
 
-Since it is not really suiting for a stealthy team to have an ancient, the *Neophyte Icon Bearer* could be made into an inspiring veteran of some sort or the leader of a squad of guardsmen the inquisitor employs. The *Signal to Strike* action certainly would fit.
+Since it is not really suiting for a stealthy team to have an ancient, the *Neophyte Icon Bearer* could be used as an inspiring veteran of some sort or the leader of a squad of guardsmen the inquisitor employs. The *Signal to Strike* action certainly would fit.
 
 
 ## Assassins
 ### Vindicare Assassin (or other Sniper)
 *Sanctus Sniper* [counts as two]
 
-Well it says 'sniper' right there in the name of the *Sanctus Sniper*, and it has some nice special abilities (*Preternatural Assassin*) and actions (*Target Vulnerability*, *Familiar's Soulsight*) to underline that.
+Not much to elaborate here, it says 'sniper' right there in the name. And it has some nice special abilities (*Preternatural Assassin*) and actions (*Target Vulnerability*, *Familiar's Soulsight*) to underline that.
 
 ### Callidus Assassin (or other stealthy assassin)
 *Sanctus Talon* [counts as two]
@@ -72,7 +65,6 @@ The sniper rifle stats of the space marine scout and the *Sanctus Sniper* match 
 *Keleromorph* [counts as two]
 
 Granted, the bolt rifle has a slightly different stat block compared to the liberator autostubs, but the *Hypersense* action and *Expert Gunslinger* ability really drive home the feeling that you have a very well trained marine here who knows how to handle his gun compared to the mortals running around in this team.
-
 
 
 # Example
