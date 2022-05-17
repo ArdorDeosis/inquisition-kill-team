@@ -12,7 +12,7 @@ Here you can find several options for creating an Inquisition kill team (for 2nd
 
 # How Do I Use These?
 
-Rules-wise, you simply use the rules of the kill teams and operatives these Inquisition kill teams are based on (e.g. the *Wyrmblade* rules for the [sneaky Inquisition team](killteams/wyrmblade.md)).
+Rules-wise, you simply use the rules of the kill teams and operatives these Inquisition kill teams are based on (e.g. the *Wyrmblade* rules for the sneaky [Inquisitor in the Shadows](killteams/wyrmblade.md)).
 
 
 # Flavouring Existing Kill Teams

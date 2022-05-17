@@ -1,2 +1,1 @@
-
-Voidscarred (psykers / adepta sororitas)
+# The Psykic Inquisitor
