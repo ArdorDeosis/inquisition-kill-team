@@ -5,9 +5,9 @@ Here you can find several options for creating an Inquisition kill team (for 2nd
 ## The Kill Teams
 
 * [The Inquisitor in the Shadows](killteams/wyrmblade.md) (Wyrmblade)
+* [The Team Featuring Space Marines](killteams/traitor-space-marines.md) (Traitor Space Marine)
 * *Name Pending* (Voidscarred)
 * *Name Pending* (Warpcoven)
-* *Name Pending* (Traitor Space Marine)
 
 
 # How Do I Use These?

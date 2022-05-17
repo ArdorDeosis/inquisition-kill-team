@@ -1,4 +1,4 @@
-# The Kill Team With Marines
+# The Team Featuring Space Marines
 *based on the Traitor Space Marine team*
 
 Using the *Traitor Space Marine* rules from the compedium, this inquisition team has nothing special about it despite the fact that it employ space marines. Since there are not much options, it doesn't make sense to go into too much detail.
